@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881758573026",
+    "project_id": "medcine-management-system-007",
+    "storage_bucket": "medcine-management-system-007.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881758573026:android:4403c8a6959f7afe7fa9bb",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy_management_system_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcFVHJhwfPplvA5Qau4mBJbwY8qlKtm0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

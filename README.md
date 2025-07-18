@@ -1,4 +1,4 @@
-// Firebase option file has been removed because of security issues .
+// Firebase option & JSON file has been removed because of security issues .
 
 💊 Medicine Management System
 

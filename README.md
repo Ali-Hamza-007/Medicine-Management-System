@@ -1,3 +1,5 @@
+// Firebase option file has been removed because of security issues .
+
 💊 Medicine Management System
 
 A complete Medicine Management System built with Flutter and Firebase, designed to manage the purchase, sale, and inventory of medicines efficiently. It supports CRUD operations, real-time updates, and invoicing functionalities for medicines and suppliers.

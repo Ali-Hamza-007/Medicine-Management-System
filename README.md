@@ -47,5 +47,5 @@ A complete Medicine Management System built with Flutter and Firebase, designed 
 - services: Firebase Firestore and Firebase Auth services
 
 This project aims to provide a comprehensive solution for managing medicines and suppliers, with real-time updates and efficient invoicing functionalities. 💪
-
+![image](https://github.com/Ali-Hamza-007/Medicine-Management-System/blob/7983b26051d7d80e8c1199ad9fb71cab3bba5eb0/screenshot.png)
 
